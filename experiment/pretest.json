@@ -1,36 +1,36 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "Which of the following element is not present in the brass?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Pb",
+        "b": "Ti",
+        "c": "Zn",
+        "d": "Fe"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Lead (Pb) is present in small amounts in some types of brass.",
+        "b": "Titanium (Ti) is not typically present in brass. <a href='https://en.wikipedia.org/wiki/Brass'>Learn more</a>",
+        "c": "Zinc (Zn) is a major component of brass.",
+        "d": "Iron (Fe) can be present in trace amounts in brass."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Zinc is separated by gravimetrically from brass by precipitating as ______ in reaction with ammonium hydrogen phosphate.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "ZnPO₄",
+        "b": "ZnSO₄",
+        "c": "Zn₂P₂O₇",
+        "d": "ZnO₂"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Zinc phosphate is not the usual gravimetric form in this context.",
+        "b": "Zinc sulfate is not formed in this separation process.",
+        "c": "Zinc is gravimetrically separated as Zn₂P₂O₇. <a href='https://pubchem.ncbi.nlm.nih.gov/compound/Zinc-pyrophosphate'>Reference</a>",
+        "d": "Zinc oxide is not the product of this reaction."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
