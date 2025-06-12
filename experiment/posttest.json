@@ -2,37 +2,54 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of following is an alloy of Aluminium?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Kryron",
+        "b": "Rose metal",
+        "c": "Megallium",
+        "d": "Cerrosafe"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Kryron is not a recognized aluminum alloy.",
+        "b": "Rose metal is an alloy of bismuth, lead, and tin.",
+        "c": "Megallium is an aluminum-based alloy. <a href='https://en.wikipedia.org/wiki/Aluminium_alloy'>More info</a>",
+        "d": "Cerrosafe is a low-melting alloy containing bismuth, not aluminum."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In an alloy, if the primary constituents are a metal, then it is called ______.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Ternary alloy",
+        "b": "Base",
+        "c": "Binary alloy",
+        "d": "System"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Ternary alloy refers to an alloy with three elements.",
+        "b": "Correct. A base metal alloy has a metal as its primary constituent.",
+        "c": "Binary alloy refers to an alloy with two components, not necessarily metallic.",
+        "d": "System is a general term, not specific to composition."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Copper is separated from brass by precipitating it as....",
+      "answers": {
+        "a": "CuCN",
+        "b": "CuSO₄",
+        "c": "CuCl₂",
+        "d": "CuSCN"
+      },
+      "explanations": {
+        "a": "CuCN is not used in this procedure.",
+        "b": "CuSO₄ is soluble and not used for gravimetric estimation.",
+        "c": "CuCl₂ is also soluble and not used for precipitation.",
+        "d": "Copper is precipitated as CuSCN (Copper(I) thiocyanate). <a href='https://pubchem.ncbi.nlm.nih.gov/compound/Copper-I_-thiocyanate'>More details</a>"
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
