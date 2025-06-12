@@ -1,0 +1,1703 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<SCENE ID="1AlloAna">
+	<TEXT ID="1AlloAna_one">
+	<TEXTVALUE>Point the mouse to each requirement of the experiment to know the name/ Click the “Continue” button to start the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="2AlloAnaEstTin">
+	<TEXT ID="2AlloAnaEstTin_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3AlloAnTkPPr">
+	<TEXT ID="3AlloAnTkPPr_one">
+	<TEXTVALUE>Take a butter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4AlloAnOnBalance">
+	<TEXT ID="4AlloAnOnBalance_one">
+	<TEXTVALUE>Place it on the electronic balance and tare it into 0.0000 g.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="5AlloAntkbraspoder">
+	<TEXT ID="5AlloAntkbraspoder_one">
+	<TEXTVALUE>Take the brass powder using spatula.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6AlloAntkfrombalace">
+	<TEXT ID="6AlloAntkfrombalace_one">
+	<TEXTVALUE>Weigh accurately about 1.0000 g of Brass powder. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7AlloAntkpurinbekr">
+	<TEXT ID="7AlloAntkpurinbekr_one">
+	<TEXTVALUE>Transfer brass into 250 mL beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8AlloAntk15ml">
+	<TEXT ID="8AlloAntk15ml_one">
+	<TEXTVALUE>Take one measuring jar and to it take 15 mL of 10 N HNO[sub]3[/sub].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9Allointhejar">
+	<TEXT ID="9Allointhejar_one">
+	<TEXTVALUE>Take one measuring jar and to it take 15 mL of 10 N HNO[sub]3[/sub].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10Alloireplcbotl">
+	<TEXT ID="10Alloireplcbotl_one">
+	<TEXTVALUE>Take one measuring jar and to it take 15 mL of 10 N HNO[sub]3[/sub].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11AlloirporinBkr">
+	<TEXT ID="11AlloirporinBkr_one">
+	<TEXTVALUE>Add 15 mL of 10 N HNO[sub]3[/sub] to the beaker containing brass using measuring jar. A precipitate (stannic acid) is formed, and that will settle down to the bottom of the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12AllointhJArrepl">
+	<TEXT ID="12AllointhJArrepl_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="13Allotkdrpr">
+	<TEXT ID="13Allotkdrpr_one">
+	<TEXTVALUE>Take a dropper from the lab bench.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14Allotkfromit">
+	<TEXT ID="14Allotkfromit_one">
+	<TEXTVALUE>Take a few drops of 10 N HNO[sub]3[/sub] from the bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="15Allotkfromit">
+	<TEXT ID="15Allotkfromit_one">
+	<TEXTVALUE>Two drops of 10 N HNO[sub]3[/sub] are added to the beaker to ensure complete percipitation of stannic acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="16Allotktobrnr">
+	<TEXT ID="16Allotktobrnr_one">
+	<TEXTVALUE>Place the beaker on the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17Alloplconit">
+	<TEXT ID="17Alloplconit_one">
+	<TEXTVALUE>Place the beaker on the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="18Alloivaprtit">
+	<TEXT ID="18Alloivaprtit_one">
+	<TEXTVALUE>Heat until most of the solution in the beaker is evaporated.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="19Allotkfrofrns">
+	<TEXT ID="19Allotkfrofrns_one">
+	<TEXTVALUE>Take the beaker from the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20Allorreplacit">
+	<TEXT ID="20Allorreplacit_one">
+	<TEXTVALUE>Dilute with 50 mL water and stir using glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="21Allotktobrnr02">
+	<TEXT ID="21Allotktobrnr02_one">
+	<TEXTVALUE>Place it on the burner and heat for 25 mins.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="22Alloplconit02">
+	<TEXT ID="22Alloplconit02_one">
+	<TEXTVALUE>Place it on the burner and heat for 25 mins.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="23Alloivaprtit02">
+	<TEXT ID="23Alloivaprtit02_one">
+	<TEXTVALUE>Place it on the burner and heat for 25 mins.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="24Alloivaprtit03">
+	<TEXT ID="24Alloivaprtit03_one">
+	<TEXTVALUE>Add some paper pulp (1 or 2) and stir it using glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="25AllotkfrFrns">
+	<TEXT ID="25AllotkfrFrns_one">
+	<TEXTVALUE>Take the beaker from the burner and allow it to cool for some time.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="26Alloplontble">
+	<TEXT ID="26Alloplontble_one">
+	<TEXTVALUE>Take the beaker from the burner and allow it to cool for some time.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="27AlloplcFanal">
+	<TEXT ID="27AlloplcFanal_one">
+	<TEXTVALUE>Take a funnel with Whatman filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28Alloplbkr">
+	<TEXT ID="28Alloplbkr_one">
+	<TEXTVALUE>Keep a beaker under the funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="29Allotkit">
+	<TEXT ID="29Allotkit_one">
+	<TEXTVALUE>Filter through Whatman filter paper and wash the precipitate with dil HNO[sub]3[/sub].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="30Allopourin">
+	<TEXT ID="30Allopourin_one">
+	<TEXTVALUE>Filter through Whatman filter paper and wash the precipitate with dil HNO[sub]3[/sub].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="31AlloreplcBkr">
+	<TEXT ID="31AlloreplcBkr_one">
+	<TEXTVALUE>Filter through Whatman filter paper and wash the precipitate with dil HNO[sub]3[/sub].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="32AllotkdilHNO3">
+	<TEXT ID="32AllotkdilHNO3_one">
+	<TEXTVALUE>Filter through Whatman filter paper and wash the precipitate with dil HNO[sub]3[/sub].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="33AllotkdilHNO3">
+	<TEXT ID="33AllotkdilHNO3_one">
+	<TEXTVALUE>Filter through Whatman filter paper and wash the precipitate with dil HNO[sub]3[/sub].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="34Alloreplacit">
+	<TEXT ID="34Alloreplacit_one">
+	<TEXTVALUE>Filter through Whatman filter paper and wash the precipitate with dil HNO[sub]3[/sub].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="35Allopenthebtl">
+	<TEXT ID="35Allopenthebtl_one">
+	<TEXTVALUE>Take a silica crucible from the desiccator using tongs.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="36AllPLConbalance">
+	<TEXT ID="36AllPLConbalance_one">
+	<TEXTVALUE>Take the Weight of empty crucible.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="37AlltkFrit">
+	<TEXT ID="37AlltkFrit_one">
+	<TEXTVALUE>Take the crucible out of the electronic balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="38AllplconTale">
+	<TEXT ID="38AllplconTale_one">
+	<TEXTVALUE>Place the crucible on the tile and open the lid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="39Allpltktheppr">
+	<TEXT ID="39Allpltktheppr_one">
+	<TEXTVALUE>Transfer the precipitate with filter paper into weighed silica crucible.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="40Allplthppr">
+	<TEXT ID="40Allplthppr_one">
+	<TEXTVALUE>Transfer the precipitate with filter paper into weighed silica crucible.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="41Alltkfrmthtil">
+	<TEXT ID="41Alltkfrmthtil_one">
+	<TEXTVALUE>Ignite the precipitate at 900-1000°C until a constant weight of SnO is obtained. First use a Bunsen burner. After the filter paper is burned, ignite it in the electric burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="42Allplconbrner">
+	<TEXT ID="42Allplconbrner_one">
+	<TEXTVALUE>Ignite the precipitate at 900-1000°C until a constant weight of SnO is obtained. First use a Bunsen burner. After the filter paper is burned, ignite it in the electric burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="43Alltkffrmit">
+	<TEXT ID="43Alltkffrmit_one">
+	<TEXTVALUE>Ignite the precipitate at 900-1000°C until a constant weight of SnO is obtained. First use a Bunsen burner. After the filter paper is burned, ignite it in the electric burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="44Allplcelctric">
+	<TEXT ID="44Allplcelctric_one">
+	<TEXTVALUE>Ignite the precipitate at 900-1000°C until a constant weight of SnO is obtained. First use a Bunsen burner. After the filter paper is burned, ignite it in the electric burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="45Allplcelctric">
+	<TEXT ID="45Allplcelctric_one">
+	<TEXTVALUE>Using tongs, remove the crucible from the electric burner, cool it and keep it in desiccator (5 min. ) using tongs.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="46Allclosit">
+	<TEXT ID="46Allclosit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="47AllPLConbalance02">
+	<TEXT ID="47AllPLConbalance02_one">
+	<TEXTVALUE>Take the weight of the crucible + substance .Weight of crucible + Tin dioxide= 20.2578g. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="48AllplconTale06">
+	<TEXT ID="48AllplconTale06_one">
+	<TEXTVALUE>Tin is precipitated as Tin dioxide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="49AllplconTale07">
+	<TEXT ID="49AllplconTale07_one">
+	<TEXTVALUE>Tin is precipitated as Tin dioxide.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="50recult">
+	<TEXT ID="50recult_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="51heding">
+	<TEXT ID="51heding_one">
+	<TEXTVALUE>Estimation of Lead</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="52Alltkfildsolu02">
+	<TEXT ID="52Alltkfildsolu02_one">
+	<TEXTVALUE>Take the above filtrate in the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="53Alplconfrns02">
+	<TEXT ID="53Alplconfrns02_one">
+	<TEXTVALUE>Place the beaker containing filtrate on the Bunsen burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="54Alwepr">
+	<TEXT ID="54Alwepr_one">
+	<TEXTVALUE>Concentrate the filtrate to 50 mL.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="55AllotkfrFrns02">
+	<TEXT ID="55AllotkfrFrns02_one">
+	<TEXTVALUE>Take it out and allow it to cool.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="56Alloplontble02">
+	<TEXT ID="56Alloplontble02_one">
+	<TEXTVALUE>Take it out and allow it to cool.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="57AllotoCool">
+	<TEXT ID="57AllotoCool_one">
+	<TEXTVALUE>Take it out and allow it to cool.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="58AllotkH2so4">
+	<TEXT ID="58AllotkH2so4_one">
+	<TEXTVALUE>Add conc. H[sub]2[/sub]SO[sub]4[/sub] using measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="59Allofill10mla">
+	<TEXT ID="59Allofill10mla_one">
+	<TEXTVALUE>Add conc. H[sub]2[/sub]SO[sub]4[/sub] using measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="60Allodroph2so4">
+	<TEXT ID="60Allodroph2so4_one">
+	<TEXTVALUE>Add conc. H[sub]2[/sub]SO[sub]4[/sub] using measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="61Allotkfrmtbl">
+	<TEXT ID="61Allotkfrmtbl_one">
+	<TEXTVALUE>Place the beaker on the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="62Alloplconbrnr">
+	<TEXT ID="62Alloplconbrnr_one">
+	<TEXTVALUE>Place the beaker on the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="63Alloevapratti">
+	<TEXT ID="63Alloevapratti_one">
+	<TEXTVALUE>Evaporate the solution until fumes are evolved.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="64AllotkfrFrns03">
+	<TEXT ID="64AllotkfrFrns03_one">
+	<TEXTVALUE>Take the beaker from the burner and cool it for some time. Then dilute it to 100ml using distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="65AllotkfrFrns04">
+	<TEXT ID="65AllotkfrFrns04_one">
+	<TEXTVALUE>Take out the beaker from the burner and Cool it and dilute to 100 mL using distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="66Allotkfrmtb03">
+	<TEXT ID="66Allotkfrmtb03_one">
+	<TEXTVALUE>Heat the solution on a burner until a percipitate is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="67Alplconfrns03">
+	<TEXT ID="67Alplconfrns03_one">
+	<TEXTVALUE>Heat the solution on a burner until a percipitate is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="68Alloprptet">
+	<TEXT ID="68Alloprptet_one">
+	<TEXTVALUE>Heat the solution on a burner until a percipitate is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="69Allotkfrmbrs">
+	<TEXT ID="69Allotkfrmbrs_one">
+	<TEXTVALUE>Take the beaker from the burner and allow it to cool.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="70Allotkfrmbrs">
+	<TEXT ID="70Allotkfrmbrs_one">
+	<TEXTVALUE>Take the beaker from the burner and allow it to cool.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="71AllopentksCruble">
+	<TEXT ID="71AllopentksCruble_one">
+	<TEXTVALUE>Take the sintered crucible from the desiccator.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="72AllPLConbalance03">
+	<TEXT ID="72AllPLConbalance03_one">
+	<TEXTVALUE>It is weighed in an electronic balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="73AllvacumFilsetup">
+	<TEXT ID="73AllvacumFilsetup_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="74AlltkFrit03">
+	<TEXT ID="74AlltkFrit03_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="75Allplconflack">
+	<TEXT ID="75Allplconflack_one">
+	<TEXTVALUE>Filter through a weighed sintered crucible.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="76Allplbikr04">
+	<TEXT ID="76Allplbikr04_one">
+	<TEXTVALUE>Filter through a weighed sintered crucible. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="77Allpuronit">
+	<TEXT ID="77Allpuronit_one">
+	<TEXTVALUE>Filter through a weighed sintered crucible. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="78AlloreplcBkr02">
+	<TEXT ID="78AlloreplcBkr02_one">
+	<TEXTVALUE>Filter through a weighed sintered crucible. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="79Allplbikr05">
+	<TEXT ID="79Allplbikr05_one">
+	<TEXTVALUE>The solution is washed with 1% H[sub]2[/sub]SO[sub]4[/sub].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="80All15H2SO4">
+	<TEXT ID="80All15H2SO4_one">
+	<TEXTVALUE>The solution is washed with 1% H[sub]2[/sub]SO[sub]4[/sub].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="81All15H2SO4">
+	<TEXT ID="81All15H2SO4_one">
+	<TEXTVALUE>The solution is washed with 1% H[sub]2[/sub]SO[sub]4[/sub].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="82AlltkCurt">
+	<TEXT ID="82AlltkCurt_one">
+	<TEXTVALUE>Dry it at 130°C using hot air oven for 15 mins.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="83AlltkCurt">
+	<TEXT ID="83AlltkCurt_one">
+	<TEXTVALUE>Dry it at 130°C using hot air oven for 15 mins.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="84Allclose">
+	<TEXT ID="84Allclose_one">
+	<TEXTVALUE>Dry it at 130°C using hot air oven for 15 mins.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="85Allclose05">
+	<TEXT ID="85Allclose05_one">
+	<TEXTVALUE>Take it out and allow it to cool.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="86Allclose05">
+	<TEXT ID="86Allclose05_one">
+	<TEXTVALUE>Take it out and allow it to cool.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="87Allclose05">
+	<TEXT ID="87Allclose05_one">
+	<TEXTVALUE>Take it out and allow it to cool.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="88Allopnit">
+	<TEXT ID="88Allopnit_one">
+	<TEXTVALUE>Weigh the sintered crucible using an electronic balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="89Allwait">
+	<TEXT ID="89Allwait_one">
+	<TEXTVALUE>Weight of crucible+PbSO[sub]4[/sub] =20.2448g. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="90Alltkit">
+	<TEXT ID="90Alltkit_one">
+	<TEXTVALUE>Weight of crucible+PbSO[sub]4[/sub] =20.2448g. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="91Recult02">
+	<TEXT ID="91Recult02_one">
+	<TEXTVALUE>Lead is precipitated as lead sulphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="92tt">
+	<TEXT ID="92tt_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="93Heading">
+	<TEXT ID="93Heading_one">
+	<TEXTVALUE>Estimation of Copper</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="94Alltkit">
+	<TEXT ID="94Alltkit_one">
+	<TEXTVALUE>Take the filtrate obtained after complete separation of lead.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="95Alltkit">
+	<TEXT ID="95Alltkit_one">
+	<TEXTVALUE>Transfer the filtrate into a 250 mL beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="96Alltkit05">
+	<TEXT ID="96Alltkit05_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="97Alltkit06">
+	<TEXT ID="97Alltkit06_one">
+	<TEXTVALUE>Evaporate the filtrate to 50 mL.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="98Alltkit07">
+	<TEXT ID="98Alltkit07_one">
+	<TEXTVALUE>Evaporate the filtrate to 50 mL.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="99Alltkit08">
+	<TEXT ID="99Alltkit08_one">
+	<TEXTVALUE>Take the beaker from the burner and allow it to cool for some time.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="100Alltkit08">
+	<TEXT ID="100Alltkit08_one">
+	<TEXTVALUE>Take the beaker from the burner and allow it to cool for some time.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="101AlltkHCL">
+	<TEXT ID="101AlltkHCL_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="102Allporit">
+	<TEXT ID="102Allporit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="103AllporWater">
+	<TEXT ID="103AllporWater_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="104Alltkppr">
+	<TEXT ID="104Alltkppr_one">
+	<TEXTVALUE>Take a piece of butter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="105Alltr">
+	<TEXT ID="105Alltr_one">
+	<TEXTVALUE>Weigh accurately 3g Sodium thiosulfate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="106tksodmtsft">
+	<TEXT ID="106tksodmtsft_one">
+	<TEXTVALUE>Weigh accurately 3g Sodium thiosulfate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="107tksodmtsft">
+	<TEXT ID="107tksodmtsft_one">
+	<TEXTVALUE>Weigh accurately 3g Sodium thiosulfate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="108tkinbkr">
+	<TEXT ID="108tkinbkr_one">
+	<TEXTVALUE>Add 3g Sodium thiosulfate to the beaker containing the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="109tkinbkr">
+	<TEXT ID="109tkinbkr_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="110tkplconbkr">
+	<TEXT ID="110tkplconbkr_one">
+	<TEXTVALUE>Heat to boiling and add 10 mL 10% Ammonium thiocyanate solution. A precipitate formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="111tkplconbkr">
+	<TEXT ID="111tkplconbkr_one">
+	<TEXTVALUE>Heat to boiling and add 10 mL 10% Ammonium thiocyanate solution. A precipitate formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="121AlltkHCL04">
+	<TEXT ID="121AlltkHCL04_one">
+	<TEXTVALUE>Heat to boiling and add 10 mL 10% Ammonium thiocyanate solution. A precipitate formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="122AlltkHCL04">
+	<TEXT ID="122AlltkHCL04_one">
+	<TEXTVALUE>Heat to boiling and add 10 mL 10% Ammonium thiocyanate solution. A precipitate formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="123AlltkHCLporinbkr">
+	<TEXT ID="123AlltkHCLporinbkr_one">
+	<TEXTVALUE>Heat to boiling and add 10 mL 10% Ammonium thiocyanate solution. A precipitate formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="124lltkHCLporinbkr">
+	<TEXT ID="124lltkHCLporinbkr_one">
+	<TEXTVALUE>Boil it again.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="125lltktkfrmfrns">
+	<TEXT ID="125lltktkfrmfrns_one">
+	<TEXTVALUE>Take it from the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="126lltkplcontbl">
+	<TEXT ID="126lltkplcontbl_one">
+	<TEXTVALUE>Take it from the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="127Allalowtocool">
+	<TEXT ID="127Allalowtocool_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="128ltkfrmtbl">
+	<TEXT ID="128ltkfrmtbl_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="129ltkfrmtbl">
+	<TEXT ID="129ltkfrmtbl_one">
+	<TEXTVALUE>Filter through a weighed sintered crucible. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="130ltkwater">
+	<TEXT ID="130ltkwater_one">
+	<TEXTVALUE>Wash with water. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="131lpowater">
+	<TEXT ID="131lpowater_one">
+	<TEXTVALUE>Wash with water. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="132plcit">
+	<TEXT ID="132plcit_one">
+	<TEXTVALUE>Wash with water. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="133tkthScrcult">
+	<TEXT ID="133tkthScrcult_one">
+	<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="134plcinbkr">
+	<TEXT ID="134plcinbkr_one">
+	<TEXTVALUE>Dry it using a hot air oven.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="135inhotovn">
+	<TEXT ID="135inhotovn_one">
+	<TEXTVALUE>Dry it using a hot air oven.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="136ioonit">
+	<TEXT ID="136ioonit_one">
+	<TEXTVALUE>Take it out and allow it to cool and then place it in the desiccator for some time.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="137Alloplcinchr">
+	<TEXT ID="137Alloplcinchr_one">
+	<TEXTVALUE>Take it out and allow it to cool and then place it in the desiccator for some time.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="138Allo5mini">
+	<TEXT ID="138Allo5mini_one">
+	<TEXTVALUE>Take it out and allow it to cool and then place it in the desiccator for some time.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="139Allo5closeit">
+	<TEXT ID="139Allo5closeit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="140Allo5closeit">
+	<TEXT ID="140Allo5closeit_one">
+	<TEXTVALUE>Weigh as CuSCN (copper(I)thiocyanate).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="141Allotkit">
+	<TEXT ID="141Allotkit_one">
+	<TEXTVALUE>Weight of crucible+ CuSCN=20.5237g </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="142AlloRisult">
+	<TEXT ID="142AlloRisult_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="144Allocalkucopr">
+	<TEXT ID="144Allocalkucopr_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="145AlloIron">
+	<TEXT ID="145AlloIron_one">
+	<TEXTVALUE>Estimation of Iron</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="146Allotkbtl">
+	<TEXT ID="146Allotkbtl_one">
+	<TEXTVALUE>Take the filtrate obtained after the complete separation of copper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="147Alloporinbkr">
+	<TEXT ID="147Alloporinbkr_one">
+	<TEXTVALUE>Transfer the filtrate into 250 mLbeaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="148Allotk">
+	<TEXT ID="148Allotk_one">
+	<TEXTVALUE>To the filtrate add 35 mL Conc: HNO[sub]3[/sub] and 15 mL Conc: HCl using measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="149Allotkh">
+	<TEXT ID="149Allotkh_one">
+	<TEXTVALUE>To the filtrate add 35 mL Conc: HNO[sub]3[/sub] and 15 mL Conc: HCl using measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="150AlloclosHno3">
+	<TEXT ID="150AlloclosHno3_one">
+	<TEXTVALUE>To the filtrate add 35 mL Conc: HNO[sub]3[/sub] and 15 mL Conc: HCl using measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="151Alloporit">
+	<TEXT ID="151Alloporit_one">
+	<TEXTVALUE>To the filtrate add 35 mL Conc: HNO[sub]3[/sub] and 15 mL Conc: HCl using measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="152Allreplcit">
+	<TEXT ID="152Allreplcit_one">
+	<TEXTVALUE>To the filtrate add 35 mL Conc: HNO[sub]3[/sub] and 15 mL Conc: HCl using measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="153AllotkHCL">
+	<TEXT ID="153AllotkHCL_one">
+	<TEXTVALUE>To the filtrate add 35 mL Conc: HNO[sub]3[/sub] and 15 mL Conc: HCl using measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="154Alloporit">
+	<TEXT ID="154Alloporit_one">
+	<TEXTVALUE>To the filtrate add 35 mL Conc: HNO[sub]3[/sub] and 15 mL Conc: HCl using measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="155AlloporHCL">
+	<TEXT ID="155AlloporHCL_one">
+	<TEXTVALUE>To the filtrate add 35 mL Conc: HNO[sub]3[/sub] and 15 mL Conc: HCl using measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="156AllotkforHeat">
+	<TEXT ID="156AllotkforHeat_one">
+	<TEXTVALUE>To the filtrate add 35 mL Conc: HNO[sub]3[/sub] and 15 mL Conc: HCl using measuring jar. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="157AllotkforHeat">
+	<TEXT ID="157AllotkforHeat_one">
+	<TEXTVALUE>Evaporate to dryness. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="158AllotkforHeat ">
+	<TEXT ID="158AllotkforHeat_one">
+	<TEXTVALUE>Evaporate to dryness. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="159Allotkforbrnr">
+	<TEXT ID="159Allotkforbrnr_one">
+	<TEXTVALUE>Take from the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="160Alloplcontble">
+	<TEXT ID="160Alloplcontble_one">
+	<TEXTVALUE>Take from the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="161Allocoolit">
+	<TEXT ID="161Allocoolit_one">
+	<TEXTVALUE>Take from the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="162Allohcl">
+	<TEXT ID="162Allohcl_one">
+	<TEXTVALUE>Then add 3-5 mL of conc.HCl</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="163Allo5ml">
+	<TEXT ID="163Allo5ml_one">
+	<TEXTVALUE>Then add 3-5 mLof Conc: HCl</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="164Allopor1ml">
+	<TEXT ID="164Allopor1ml_one">
+	<TEXTVALUE>Then add 3-5 mL of Conc: HCl</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="165AllotoBrnr">
+	<TEXT ID="165AllotoBrnr_one">
+	<TEXTVALUE>Warm it again. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="166Alloplconfrnes">
+	<TEXT ID="166Alloplconfrnes_one">
+	<TEXTVALUE>Warm it again. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="167Alloheatit">
+	<TEXT ID="167Alloheatit_one">
+	<TEXTVALUE>Warm it again. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="168Allotkforbrnr02">
+	<TEXT ID="168Allotkforbrnr02_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="169Alloplcontble02">
+	<TEXT ID="169Alloplcontble02_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="170Alloplcontble02">
+	<TEXT ID="170Alloplcontble02_one">
+	<TEXTVALUE>Dilute to 50-75 mL water. Precipitate iron as Fe(OH)[sub]3[/sub] ( iron(III) hydroxide).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="171Alloplconstant">
+	<TEXT ID="171Alloplconstant_one">
+	<TEXTVALUE>Filter the precipitate using Whatman filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="172Alloplcthebekr">
+	<TEXT ID="172Alloplcthebekr_one">
+	<TEXTVALUE>Filter the precipitate using Whatman filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="173Alloplcthebekr">
+	<TEXT ID="173Alloplcthebekr_one">
+	<TEXTVALUE>Filter the precipitate using Whatman filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="174Alloplcpurinfanal">
+	<TEXT ID="174Alloplcpurinfanal_one">
+	<TEXTVALUE>Filter the precipitate using Whatman filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="175Alloplacit">
+	<TEXT ID="175Alloplacit_one">
+	<TEXTVALUE>Filter the precipitate using Whatman filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="176Allopncacrol">
+	<TEXT ID="176Allopncacrol_one">
+	<TEXTVALUE>Take silica crucible from desiccator.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="177Alloplconontail">
+	<TEXT ID="177Alloplconontail_one">
+	<TEXTVALUE>Ignite the precipitate using previously weighed silica crucible.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="178AlloTKtheppr">
+	<TEXT ID="178AlloTKtheppr_one">
+	<TEXTVALUE>Ignite the precipitate using previously weighed silica crucible.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="179Allopnfnal">
+	<TEXT ID="179Allopnfnal_one">
+	<TEXTVALUE>Ignite the precipitate using previously weighed silica crucible.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="180AllTKfrmTail">
+	<TEXT ID="180AllTKfrmTail_one">
+	<TEXTVALUE>Ignite the precipitate using previously weighed silica crucible.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="181Allplconbrner">
+	<TEXT ID="181Allplconbrner_one">
+	<TEXTVALUE>Ignite the precipitate using previously weighed silica crucible.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="182Allplconbrner">
+	<TEXT ID="182Allplconbrner_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="183Allplconbrner">
+	<TEXT ID="183Allplconbrner_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="189Allplconcasrol">
+	<TEXT ID="189Allplconcasrol_one">
+	<TEXTVALUE>Allow to cool and place it in the desiccator and weigh it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="190Allplconcasrol">
+	<TEXT ID="190Allplconcasrol_one">
+	<TEXTVALUE>Allow to cool and place it in the desiccator and weigh it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="191Allgtfr">
+	<TEXT ID="191Allgtfr_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="192Allplconbalance">
+	<TEXT ID="192Allplconbalance_one">
+	<TEXTVALUE>Weight of crucible+ Fe(OH)[sub]3[/sub] =20.2834g.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="193Allshowrisult">
+	<TEXT ID="193Allshowrisult_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="194Result">
+	<TEXT ID="194Result_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="195Allshowrisult">
+	<TEXT ID="195Allshowrisult_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="196Heading">
+	<TEXT ID="196Heading_one">
+	<TEXTVALUE>Estimation of Zinc.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="197Tksolu">
+	<TEXT ID="197Tksolu_one">
+	<TEXTVALUE>Take the final filtrate. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="198Allplcontble">
+	<TEXT ID="198Allplcontble_one">
+	<TEXTVALUE>Take the final filtrate. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="199Allplcontble">
+	<TEXT ID="199Allplcontble_one">
+	<TEXTVALUE>Add 10 ml Conc: HCl using measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="200Allplcontble">
+	<TEXT ID="200Allplcontble_one">
+	<TEXTVALUE>Add 10 ml Conc: HCl using measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="201Allpurit">
+	<TEXT ID="201Allpurit_one">
+	<TEXTVALUE>Add 10 ml Conc: HCl using measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="202Allreplacit">
+	<TEXT ID="202Allreplacit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="203Alltktofrns">
+	<TEXT ID="203Alltktofrns_one">
+	<TEXTVALUE>Heat the filtrate on the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="204Allplconfrner">
+	<TEXT ID="204Allplconfrner_one">
+	<TEXTVALUE>Heat the filtrate on the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="205Alltkfrmbrns">
+	<TEXT ID="205Alltkfrmbrns_one">
+	<TEXTVALUE>Take from burner and pass H[sub]2[/sub]S gas using Kipps apparatus.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="206AllkidsAppara">
+	<TEXT ID="206AllkidsAppara_one">
+	<TEXTVALUE>Take from burner and pass H[sub]2[/sub]S gas using Kipps apparatus.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="207Allplcbekr">
+	<TEXT ID="207Allplcbekr_one">
+	<TEXTVALUE>Take from burner and pass H[sub]2[/sub]S gas using Kipps apparatus.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="208Allplcbekr">
+	<TEXT ID="208Allplcbekr_one">
+	<TEXTVALUE>Take from burner and pass H[sub]2[/sub]S gas using Kipps apparatus.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="209AlloppenNob">
+	<TEXT ID="209AlloppenNob_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="210Allopptform">
+	<TEXT ID="210Allopptform_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="211Allopptform">
+	<TEXT ID="211Allopptform_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="212AllotoBrnrtkit">
+	<TEXT ID="212AllotoBrnrtkit_one">
+	<TEXTVALUE>Filter the precipitate and wash it with water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="213Alloplacfunal">
+	<TEXT ID="213Alloplacfunal_one">
+	<TEXTVALUE>Filter the precipitate and wash it with water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="214Alloplacbekr">
+	<TEXT ID="214Alloplacbekr_one">
+	<TEXTVALUE>Filter the precipitate and wash it with water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="215Allotktofanl">
+	<TEXT ID="215Allotktofanl_one">
+	<TEXTVALUE>Filter the precipitate and wash it with water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="216Allopurit">
+	<TEXT ID="216Allopurit_one">
+	<TEXTVALUE>Filter the precipitate and wash it with water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="217Allopurit">
+	<TEXT ID="217Allopurit_one">
+	<TEXTVALUE>Filter the precipitate and wash it with water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="218AllotkWtr">
+	<TEXT ID="218AllotkWtr_one">
+	<TEXTVALUE>Filter the precipitate and wash it with water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="219Allopurwater">
+	<TEXT ID="219Allopurwater_one">
+	<TEXTVALUE>Filter the precipitate and wash it with water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="220Allopurwater">
+	<TEXT ID="220Allopurwater_one">
+	<TEXTVALUE>Filter the precipitate and wash it with water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="221Allotkwtr">
+	<TEXT ID="221Allotkwtr_one">
+	<TEXTVALUE>Collect the filtrate (discard the precipitate).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="222Alloplcstant">
+	<TEXT ID="222Alloplcstant_one">
+	<TEXTVALUE>Boil off H[sub]2[/sub]S using a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="223Alloplcboilit">
+	<TEXT ID="223Alloplcboilit_one">
+	<TEXTVALUE>Boil off H[sub]2[/sub]S using a Bunsen burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="224Alloplcboilit">
+	<TEXT ID="224Alloplcboilit_one">
+	<TEXTVALUE>Taken out from the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="225Alloplcontabl">
+	<TEXT ID="225Alloplcontabl_one">
+	<TEXTVALUE>Taken out from the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="226Allotkppr">
+	<TEXT ID="226Allotkppr_one">
+	<TEXTVALUE>Take one piece of butter paper and accurately weigh 3g NH[sub]4[/sub]Cl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="227Alloplonbala">
+	<TEXT ID="227Alloplonbala_one">
+	<TEXTVALUE>Take one piece of butter paper and accurately weigh 3g NH[sub]4[/sub]Cl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="228Allotkfrmit">
+	<TEXT ID="228Allotkfrmit_one">
+	<TEXTVALUE>Take one piece of butter paper and accurately weigh 3g NH[sub]4[/sub]Cl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="229Alloreadit">
+	<TEXT ID="229Alloreadit_one">
+	<TEXTVALUE>Take one piece of butter paper and accurately weigh 3g NH[sub]4[/sub]Cl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="230Alloreadit">
+	<TEXT ID="230Alloreadit_one">
+	<TEXTVALUE>Add 3g NH[sub]4[/sub]Cl into the filtrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="231AllotkHNO3">
+	<TEXT ID="22Alloplconit02_one">
+	<TEXTVALUE>Add Conc: HNO[sub]3[/sub] into the filtrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="232Allojjj10ml">
+	<TEXT ID="232Allojjj10ml_one">
+	<TEXTVALUE>Add Conc: HNO[sub]3[/sub] into the filtrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="233Alloreplcit">
+	<TEXT ID="233Alloreplcit_one">
+	<TEXTVALUE>Add Conc: HNO[sub]3[/sub] into the filtrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="234Alloreplcit">
+	<TEXT ID="234Alloreplcit_one">
+	<TEXTVALUE>Add Conc: HNO[sub]3[/sub] into the filtrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="235Allotkto">
+	<TEXT ID="235Allotkto_one">
+	<TEXTVALUE>Again boil and add NH[sub]3[/sub]. A precipitate is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="236Alloplconbrnr">
+	<TEXT ID="236Alloplconbrnr_one">
+	<TEXTVALUE>Again boil and add NH[sub]3[/sub]. A precipitate is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="237Alloboilit">
+	<TEXT ID="237Alloboilit_one">
+	<TEXTVALUE>Again boil and add NH[sub]3[/sub]. A precipitate is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="238Alloplcontble">
+	<TEXT ID="238Alloplcontble_one">
+	<TEXTVALUE>Again boil and add NH[sub]3[/sub]. A precipitate is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="239AllotkNH3">
+	<TEXT ID="239AllotkNH3_one">
+	<TEXTVALUE>Again boil and add NH[sub]3[/sub]. A precipitate is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="240Allojjj10ml01">
+	<TEXT ID="240Allojjj10ml01_one">
+	<TEXTVALUE>Again boil and add NH[sub]3[/sub]. A precipitate is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="241Allopourit">
+	<TEXT ID="241Allopourit_one">
+	<TEXTVALUE>Again boil and add NH[sub]3[/sub]. A precipitate is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="242Alloreplcit">
+	<TEXT ID="242Alloreplcit_one">
+	<TEXTVALUE>Again boil and add NH[sub]3[/sub]. A precipitate is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="243Altkbkr">
+	<TEXT ID="243Altkbkr_one">
+	<TEXTVALUE>Boil and filter using filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="244Alplonbrnr">
+	<TEXT ID="244Alplonbrnr_one">
+	<TEXTVALUE>Boil and filter using filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="245Alplonbrnr">
+	<TEXT ID="245Alplonbrnr_one">
+	<TEXTVALUE>Boil and filter using filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="246Altkit">
+	<TEXT ID="246Altkit_one">
+	<TEXTVALUE>Boil and filter using filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="247Allitontable">
+	<TEXT ID="247Allitontable_one">
+	<TEXTVALUE>Boil and filter using filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="248Alloplaconit">
+	<TEXT ID="248Alloplaconit_one">
+	<TEXTVALUE>Boil and filter using filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="249Alloplacbikr">
+	<TEXT ID="249Alloplacbikr_one">
+	<TEXTVALUE>Boil and filter using filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="250Allotkbkr">
+	<TEXT ID="250Allotkbkr_one">
+	<TEXTVALUE>Boil and filter using filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="251Alloporit">
+	<TEXT ID="251Alloporit_one">
+	<TEXTVALUE>Boil and filter using filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="252Alloreplcit">
+	<TEXT ID="252Alloreplcit_one">
+	<TEXTVALUE>Boil and filter using filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="253Allotkfilterd">
+	<TEXT ID="253Allotkfilterd_one">
+	<TEXTVALUE>Collect the filtrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="254Alloplontble">
+	<TEXT ID="254Alloplontble_one">
+	<TEXTVALUE>Collect the filtrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="255Allotkfilter">
+	<TEXT ID="255Allotkfilter_one">
+	<TEXTVALUE>Add methyl red indicator. A light red colour is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="256Allotkmethyl">
+	<TEXT ID="256Allotkmethyl_one">
+	<TEXTVALUE>Add methyl red indicator. A light red colour is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="257AllotwoDrop">
+	<TEXT ID="257AllotwoDrop_one">
+	<TEXTVALUE>Add methyl red indicator. A light red colour is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="258AllotkHCL">
+	<TEXT ID="258AllotkHCL_one">
+	<TEXTVALUE>Add 5 mL Conc: HCl,and neutralize with 5 mL NH[sub]3[/sub]. </TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="259Allo5HCL">
+	<TEXT ID="259Allo5HCL_one">
+	<TEXTVALUE>Add 5 mL Conc: HCl , and neutralize with 5 mL NH[sub]3[/sub].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="260Allopurhcl ">
+	<TEXT ID="260Allopurhcl_one">
+	<TEXTVALUE>Add 5 mL Conc: HCl , and neutralize with 5 mL NH[sub]3[/sub].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="261Allonh3">
+	<TEXT ID="261Allonh3_one">
+	<TEXTVALUE>Add 5 mL Conc: HCl , and neutralize with 5 mL NH[sub]3[/sub].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="262Allo5HCL02">
+	<TEXT ID="262Allo5HCL02_one">
+	<TEXTVALUE>Add 5 mL Conc: HCl , and neutralize with 5 mL NH[sub]3[/sub].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="263Allopurhcl02">
+	<TEXT ID="263Allopurhcl02_one">
+	<TEXTVALUE>Add 5 mL Conc: HCl , and neutralize with 5 mL NH[sub]3[/sub].</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="264Alloerplace">
+	<TEXT ID="264Alloerplace_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="265Alloerplace">
+	<TEXT ID="265Alloerplace_one">
+	<TEXTVALUE>Add 15 mL 10% ammonium hydrogen phosphate to the filtrate. A precipitate is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="266Alloporit">
+	<TEXT ID="266Alloporit_one">
+	<TEXTVALUE>Add 15 mL 10% Ammonium hydrogen phosphate to the filtrate. A precipitate is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="267Allopurhcl02hyt">
+	<TEXT ID="267Allopurhcl02hyt_one">
+	<TEXTVALUE>Add 15 mL 10% Ammonium hydrogen phosphate to the filtrate. A precipitate  is formed.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="268Allotkit">
+	<TEXT ID="268Allotkit_one">
+	<TEXTVALUE>Heat it on the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="269Alloplonburnr">
+	<TEXT ID="269Alloplonburnr_one">
+	<TEXTVALUE>Heat it on the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="270Alloboilit">
+	<TEXT ID="270Alloboilit_one">
+	<TEXTVALUE>Heat it on the burner.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="271Allotkit">
+	<TEXT ID="271Allotkit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="272Alloerplce">
+	<TEXT ID="272Alloerplce_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="273Alloplcfanal">
+	<TEXT ID="273Alloplcfanal_one">
+	<TEXTVALUE>Filter the precipitate using filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="274Alloplacbikr03">
+	<TEXT ID="274Alloplacbikr03_one">
+	<TEXTVALUE>Filter the precipitate using filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="275Allotkbkr03">
+	<TEXT ID="275Allotkbkr03_one">
+	<TEXTVALUE>Filter the precipitate using filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="276Alloporit03">
+	<TEXT ID="276Alloporit03_one">
+	<TEXTVALUE>Filter the precipitate using filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="277Alloreplcit03">
+	<TEXT ID="277Alloreplcit03_one">
+	<TEXTVALUE>Filter the precipitate using filter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="278Allowater02">
+	<TEXT ID="278Allowater02_one">
+	<TEXTVALUE>Wash the precipitate with water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="279Allopurwatr">
+	<TEXT ID="279Allopurwatr_one">
+	<TEXTVALUE>Wash the precipitate with water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="280AlloplcBkr">
+	<TEXT ID="280AlloplcBkr_one">
+	<TEXTVALUE>Wash the precipitate with water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="281Allotkcre">
+	<TEXT ID="281Allotkcre_one">
+	<TEXTVALUE>Take silica crucible from the desiccator.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="282Allooppnit">
+	<TEXT ID="282Allooppnit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="283Allotkppr">
+	<TEXT ID="283Allotkppr_one">
+	<TEXTVALUE>Transfer the precipitate with filter paper into the previously weighed crucible.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="284AlloPlcPpr">
+	<TEXT ID="284AlloPlcPpr_one">
+	<TEXTVALUE>Transfer the precipitate with filter paper into the previously weighed crucible.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="285Allohtfds">
+	<TEXT ID="285Allohtfds_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="286Alloplconbrnr">
+	<TEXT ID="286Alloplconbrnr_one">
+	<TEXTVALUE>Ignite the precipitate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="287Allotkit">
+	<TEXT ID="287Allotkit_one">
+	<TEXTVALUE>Ignite the precipitate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="288Alloplcinfrnes">
+	<TEXT ID="288Alloplcinfrnes_one">
+	<TEXTVALUE>Ignite the precipitate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="289Allokeeptokool">
+	<TEXT ID="289Allokeeptokool_one">
+	<TEXTVALUE>Allow to cool.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="290Allohtfds02">
+	<TEXT ID="290Allohtfds02_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="291Alloplconbalnce">
+	<TEXT ID="291Alloplconbalnce_one">
+	<TEXTVALUE>Zinc is weighing as Zn[sub]2[/sub]P[sub]2[/sub]O[sub]7[/sub](Zinc Pyrophosphate)Weight of crucible+Zn[sub]2[/sub]P[sub]2[/sub]O[sub]7[/sub] = 20.3300g.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="292Allokeeptokool copy">
+	<TEXT ID="292Allokeeptokool copy_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="293Allooppnit">
+	<TEXT ID="293Allooppnit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="294Allorisult">
+	<TEXT ID="294Allorisult_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="295Allocacul">
+	<TEXT ID="295Allocacul_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
