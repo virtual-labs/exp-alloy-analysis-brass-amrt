@@ -34,6 +34,57 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "Which of following is an alloy of Aluminium?",
+      "answers": {
+        "a": "Kryron",
+        "b": "Rose metal",
+        "c": "Megallium",
+        "d": "Cerrosafe"
+      },
+      "explanations": {
+        "a": "Kryron is not a recognized aluminum alloy.",
+        "b": "Rose metal is an alloy of bismuth, lead, and tin.",
+        "c": "Megallium is an aluminum-based alloy. <a href='https://en.wikipedia.org/wiki/Aluminium_alloy'>More info</a>",
+        "d": "Cerrosafe is a low-melting alloy containing bismuth, not aluminum."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In an alloy, if the primary constituents are a metal, then it is called ______.",
+      "answers": {
+        "a": "Ternary alloy",
+        "b": "Base",
+        "c": "Binary alloy",
+        "d": "System"
+      },
+      "explanations": {
+        "a": "Ternary alloy refers to an alloy with three elements.",
+        "b": "Correct. A base metal alloy has a metal as its primary constituent.",
+        "c": "Binary alloy refers to an alloy with two components, not necessarily metallic.",
+        "d": "System is a general term, not specific to composition."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Copper is separated from brass by precipitating it as....",
+      "answers": {
+        "a": "CuCN",
+        "b": "CuSO₄",
+        "c": "CuCl₂",
+        "d": "CuSCN"
+      },
+      "explanations": {
+        "a": "CuCN is not used in this procedure.",
+        "b": "CuSO₄ is soluble and not used for gravimetric estimation.",
+        "c": "CuCl₂ is also soluble and not used for precipitation.",
+        "d": "Copper is precipitated as CuSCN (Copper(I) thiocyanate). <a href='https://pubchem.ncbi.nlm.nih.gov/compound/Copper-I_-thiocyanate'>More details</a>"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
     }
   ]
 }
